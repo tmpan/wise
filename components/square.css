@@ -1,0 +1,11 @@
+.square {
+    position: fixed;
+    top:0;
+    left: 0;
+    background-image: url("../images/bg-main_over.png");
+    background-size: cover;
+    width: 747px;
+    height: 1092px;
+    z-index: -1;
+
+}

@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0;
+}
+
+.main__image {
+    height: 640px;
+}

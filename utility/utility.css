@@ -1,0 +1,17 @@
+html {
+    background-image: url("../images/bg-main1.jpg");
+    color: #fff;
+    background-size: cover;
+    scroll-behavior: smooth;
+  }
+
+p {
+    margin-top: 0;
+}
+
+
+* {
+    outline-width: 1px;
+    outline-style: dotted;
+    outline-color:rgb(233, 13, 13);
+}

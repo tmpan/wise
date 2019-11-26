@@ -1,0 +1,14 @@
+.language {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.language__image {
+    height: 10px;
+}
+
+.language__item {
+    font-size: 20px;
+    font-weight: bold;
+}
