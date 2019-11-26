@@ -10,8 +10,8 @@ p {
 }
 
 
-* {
-    outline-width: 1px;
-    outline-style: dotted;
-    outline-color:rgb(233, 13, 13);
-}
+/** {*/
+/*    outline-width: 1px;*/
+/*    outline-style: dotted;*/
+/*    outline-color:rgb(233, 13, 13);*/
+/*}*/
