@@ -6,9 +6,11 @@
 
 .language__image {
     height: 10px;
+
 }
 
 .language__item {
+    margin-left: 5px;
     font-size: 20px;
     font-weight: bold;
 }

@@ -4,8 +4,8 @@
     left: 0;
     background-image: url("../images/bg-main_over.png");
     background-size: cover;
-    width: 747px;
-    height: 1092px;
+    width: 100%;
+    height: 100%;
     z-index: -1;
 
 }
