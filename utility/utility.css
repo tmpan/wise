@@ -1,13 +1,20 @@
 html {
+    height: 100%;
     background-image: url("../images/bg-main1.jpg");
     color: #fff;
     background-size: cover;
     scroll-behavior: smooth;
   }
 
+body {
+    height: 100%;
+}
+
 p {
     margin-top: 0;
 }
+
+
 
 
 /** {*/

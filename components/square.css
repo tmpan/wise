@@ -3,7 +3,8 @@
     top:0;
     left: 0;
     background-image: url("../images/bg-main_over.png");
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     width: 100%;
     height: 100%;
     z-index: -1;
