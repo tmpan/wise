@@ -3,7 +3,7 @@
     max-width: 1440px;
     height: 100%;
     box-sizing: border-box;
-
+    position: relative;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;

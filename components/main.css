@@ -5,20 +5,7 @@
     flex-direction: row;
 
     box-sizing: border-box;
-    position: relative;
+
 
 }
 
-.main__image {
-    position: fixed;
-    /*display: flex;*/
-    /*flex-direction: row;*/
-    /*align-items: center;*/
-    /*box-sizing: border-box;*/
-    /*padding-right: 70px;*/
-}
-
-.main__image-out {
-    width: 100%;
-    margin: 0 auto;
-}
