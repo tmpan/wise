@@ -1,6 +1,10 @@
 .mockup {
     position: absolute;
-    top: -100%;
+    top: 10%;
+    right: 5%;
+
+    height: 90%;
+    width: auto;
     /*position: fixed;*/
     /*max-width: 100%;*/
     /*top: 10%;*/
