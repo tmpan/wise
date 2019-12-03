@@ -1,0 +1,16 @@
+.idea {
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+}
+
+.idea__image {
+    width: 28px;
+    padding: 5px;
+
+}
+
+.idea__text {
+    margin: 0;
+}

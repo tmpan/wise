@@ -10,8 +10,11 @@
 @import url('../components/language.css');
 
 @import url('../components/main.css');
+@import url('../components/mockup.css');
 @import url('../components/about.css');
 @import url('../components/button.css');
+@import url('../components/investment-ideas.css');
+@import url('../components/idea.css');
 
 @import url('../components/footer.css');
 @import url('../components/copyright.css');

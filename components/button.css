@@ -8,3 +8,12 @@
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
+
+.button-learn {
+    background: transparent;
+    box-sizing: border-box;
+
+    border: 2px solid #00ACFF;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}

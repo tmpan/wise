@@ -1,21 +1,24 @@
 .main {
     width: 70%;
-    height: 100%;
-    margin: 0;
-    padding: 10px 0;
-    position: relative;
+
     display: flex;
     flex-direction: row;
-    align-self: center;
-    justify-content: space-between;
+
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
 
 }
 
 .main__image {
-    width: 80%;
-    background-image: url("../images/phone1.png");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    box-sizing: border-box;
     /*padding-right: 70px;*/
+}
+
+.main__image-out {
+    width: 100%;
+    margin: 0 auto;
 }

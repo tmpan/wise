@@ -1,14 +1,25 @@
 .about {
-    width: 40%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
 .about__title {
+    margin-bottom: 20px;
     font-size: 40px;
 }
 
 .about__text {
     font-size: 20px;
+}
+
+.about__text-marked {
+    color: #00ACFF;
+}
+
+.about__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 40px;
 }
